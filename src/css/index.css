@@ -1,0 +1,82 @@
+html {
+    display: block;
+}
+
+body {
+    font-family: Calibre, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: "Lato", "proxia-nova", "Helvetica Neue", Arial, sans-serif;
+    font-weight: normal;
+    color: #404040;
+    min-height: 100%;
+    overflow-x: hidden;
+    background: #edf0f2;
+}
+
+.wy-body-for-nav {
+    background: #fcfcfc;
+}
+
+div.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 20px;
+    padding-right: 20px;
+    z-index: 1000;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+div.menu a {
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    background: linear-gradient(0deg, #6671ffb8, #9a66ffb8 50%);
+    padding: 10px 16px 6px 16px;
+    border-radius: 3px;
+    margin-left: 12px;
+    position: relative;
+}
+
+a:visited {
+    color: #9B59B6;
+}
+
+a {
+    color: #6670FF;
+}
+
+a {
+    color: #2980B9;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
